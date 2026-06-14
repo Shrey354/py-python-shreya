@@ -1,1 +1,1 @@
-Color mixing and guessing a number game in python
+Python projects beginner to advance.
